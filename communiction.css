@@ -1,0 +1,40 @@
+
+#communication {
+    background-color: #75b9db;
+    padding: 20px;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+#chat-box {
+    border: 1px solid #562424;
+    padding: 10px;
+    border-radius: 5px;
+  
+    max-height: 80%;
+}
+
+#message-input {
+    margin-top: 20px;
+}
+
+#message {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #190a0a;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+#send-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#send-button:hover {
+    background-color: #0056b3;
+}
